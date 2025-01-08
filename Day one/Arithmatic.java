@@ -3,7 +3,8 @@
 #2 sub() to do subtraction of two numbers
 #3 mult() to multiply 2 numbers and 
 #4 division two divide  two numbers.
-and print the result*/
+and print the result
+get() method to initialize two variable, create two objects of Arithmetic class and perform all operations*/
 
 class Arithmatic{
   int x,y;
