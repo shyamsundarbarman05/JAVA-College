@@ -1,4 +1,3 @@
-
 // Write a java program using a class name Myclass that consist of a single method ,print your name :<your name>
 // Department:<your Department> using that method.
 
