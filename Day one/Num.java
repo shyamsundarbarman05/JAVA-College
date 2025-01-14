@@ -9,7 +9,7 @@ void show(){
 System.out.println(" The value of the number is: "+x);
 }
 public static void main(String args[]){
-First obj=new First();
+Num obj=new Num();
 obj.get(35);
 obj.show();
 }
