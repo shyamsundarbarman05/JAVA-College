@@ -39,7 +39,7 @@ obj1.add();
 obj1.sub();
 obj1.mult();
 obj1.div();
-obj2.get(21,11);
+obj2.get (21,11);
 obj2.add();
 obj2.sub();
 obj2.mult();
