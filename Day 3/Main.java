@@ -1,4 +1,4 @@
-//ass3 q6
+//Define class animal with a single variable type and a parameterized constructor to initialize the variable, define a class dog, which is a child class of animal with two variable breed and name. Write a parameterized constructor in the dog class to initialize the object, define display() method to show the record, create to object of dog class and show the record.
 
 class Animal{
     String type;
